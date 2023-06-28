@@ -1,0 +1,3 @@
+C:/Users/Maria/CLionProjects/CONNECT4/cmake-build-debug/CMakeFiles/CONNECT4.dir
+C:/Users/Maria/CLionProjects/CONNECT4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Maria/CLionProjects/CONNECT4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
